@@ -1,2 +1,1 @@
-# paysim-fraud-detection
-Exploratory data analysis and Tableau dashboard using the PaySim mobile money transaction dataset to uncover trends, anomalies, and indicators of financial fraud.
+This project performs end-to-end data cleaning and exploratory analysis on the PaySim dataset, a synthetic simulation of mobile money transactions. Using Python and Tableau, I identify transaction patterns, detect unusual behavior, and explore characteristics of fraudulent activity. The project aims to showcase practical EDA, data storytelling, and visualization skills for financial data.
